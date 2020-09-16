@@ -28,7 +28,7 @@ Consider checking it out!\
 
 ## A little more about me
 Hit me up on the topic of wuxias, light novels, or manga, and I'll be glad to entertain you.\
-Wanna try some out?\
+Wanna try some out?
 <details>
   <summary><b>Wuxias and Light Novels</b></summary>
   Against The Gods<br>
