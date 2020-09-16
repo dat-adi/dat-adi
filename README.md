@@ -1,13 +1,13 @@
 # Hey, how you doing? 👋
 
-My name is Datta Adithya, and I'm a Sophomore at the VIT-AP University, studying Computer Science and Engineering.\
+My name is **Datta Adithya**, and I'm a Sophomore at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
 I'm from India, and reside in Hyderabad, and like to work on coding projects from time to time.\
 You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3].
 
 ## What I'm currently working on
 
-I'm currently learning the Django Framework, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!\
-I've also recently hit Version 1.0.0 for Eisen's Tickets, one of my Python projects, really glad about that. Check Eisen's Tickets out [here](https://github.com/dat-adi/eisen-tickets)!
+I'm currently learning the **Django Framework**, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!\
+I've also recently hit Version 1.0.0 for **Eisen's Tickets**, one of my Python projects, really glad about that. Check Eisen's Tickets out [here](https://github.com/dat-adi/eisen-tickets)!
 
 ## What I spend my time on
 
