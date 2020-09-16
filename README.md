@@ -1,6 +1,6 @@
 # Hey, how you doing? 👋
 
-My name is **Datta Adithya**, and I'm a Sophomore at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
+I'm **Datta Adithya**, a Sophomore at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
 I'm from India, and reside in Hyderabad, and like to work on coding projects from time to time.\
 You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3].
 
@@ -11,11 +11,11 @@ I've also recently hit Version 1.0.0 for **Eisen's Tickets**, one of my Python p
 
 ## What I spend my time on
 
-I seek new concepts, frameworks, and software development toolkits to explore most of the time.\
-The rest of the time I spend on reading novels, webtoons, and manga.\
+I seek new **concepts**, **frameworks**, and **SDKs** to explore most of the time.\
+The rest of the time I spend on reading novels, webtoons, and manga.
 
 ## Check out my website!
-Apart from coding, I do maintain a website displaying my projects, my blog and my resume.\
+Apart from coding, I do maintain a website displaying my **projects**, my **blog** and my **resume**.\
 Consider checking it out!\
 [My professional portfolio](http://www.heltimes.com)
 
