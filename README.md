@@ -67,7 +67,7 @@ Wanna try some out?
 
 ## GitHub Stats
 <details>
-  <summary>My GitHub Stats</summary>
+  <summary><b>My GitHub Stats</b></summary>
     <a href="https://github.com/dat-adi/dat-adi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat-adi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
@@ -76,7 +76,7 @@ Wanna try some out?
     </a>
 </details>
 <details>
-  <summary>My Project Stats</summary>
+  <summary><b>My Project Stats</b></summary>
   <a href="https://github.com/dat-adi/eisen-tickets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dat-adi&repo=eisen-tickets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
