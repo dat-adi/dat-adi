@@ -83,6 +83,9 @@ Wanna try some out?
 </details>
 <!-- links to social media icons -->
 
+## My recent commits
+<!-- START gadpp -->
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
