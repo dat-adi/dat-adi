@@ -7,7 +7,6 @@ You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3]
 ## What I'm currently working on
 
 I'm currently learning the **Django Framework**, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!\
-I've also recently hit Version 1.0.0 for **Eisen's Tickets**, one of my Python projects, really glad about that. Check Eisen's Tickets out [here](https://github.com/dat-adi/eisen-tickets)!
 
 ## What I spend my time on
 
@@ -77,7 +76,6 @@ Wanna try some out?
 </details>
 <details>
   <summary><b>My Project Stats</b></summary>
-  <a href="https://github.com/dat-adi/eisen-tickets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dat-adi&repo=eisen-tickets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
 </details>
@@ -85,6 +83,7 @@ Wanna try some out?
 
 ## My recent commits
 <!-- START gadpp -->
+- dat-adi/eisen-tickets, [refs/heads/master@f81ef608a58323f887840c325874bf6b863a9703](https://github.com/dat-adi/eisen-tickets/commit/f81ef608a58323f887840c325874bf6b863a9703)
 
 <!-- icons with padding -->
 
