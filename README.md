@@ -6,7 +6,7 @@ You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3]
 
 ## What I'm currently working on
 
-I'm currently learning the **Django Framework**, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!\
+I'm currently learning the **Django Framework**, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!
 
 ## What I spend my time on
 
