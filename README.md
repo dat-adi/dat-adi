@@ -83,8 +83,8 @@ Wanna try some out?
 
 ## My recent commits
 <!-- START gadpp -->
+- dat-adi/time-tabler, [refs/heads/master@54465ae95109789ecfc633fff8d13fbac2768c48](https://github.com/dat-adi/time-tabler/commit/54465ae95109789ecfc633fff8d13fbac2768c48)
 - dat-adi/tinyApps, [refs/heads/master@99107f02e60861853602ef912d1df62d5fb3ffdb](https://github.com/dat-adi/tinyApps/commit/99107f02e60861853602ef912d1df62d5fb3ffdb)
-- dat-adi/time-tabler, [refs/heads/master@6b0472ed23f0751b2a072fd303dd99b4e07ac779](https://github.com/dat-adi/time-tabler/commit/6b0472ed23f0751b2a072fd303dd99b4e07ac779)
 - dat-adi/eisen-tickets, [refs/heads/master@f81ef608a58323f887840c325874bf6b863a9703](https://github.com/dat-adi/eisen-tickets/commit/f81ef608a58323f887840c325874bf6b863a9703)
 
 <!-- icons with padding -->
