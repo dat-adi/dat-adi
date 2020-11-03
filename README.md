@@ -83,7 +83,7 @@ Wanna try some out?
 
 ## My recent commits
 <!-- START gadpp -->
-- dat-adi/tinyApps, [refs/heads/master@40e052be2c49dd8065d3e108aebd839f9a1412f2](https://github.com/dat-adi/tinyApps/commit/40e052be2c49dd8065d3e108aebd839f9a1412f2)
+- dat-adi/tinyApps, [refs/heads/master@717f656e53852d04994008a3d7caa3c3f1df94a1](https://github.com/dat-adi/tinyApps/commit/717f656e53852d04994008a3d7caa3c3f1df94a1)
 - dat-adi/time-tabler, [refs/heads/master@54465ae95109789ecfc633fff8d13fbac2768c48](https://github.com/dat-adi/time-tabler/commit/54465ae95109789ecfc633fff8d13fbac2768c48)
 - dat-adi/eisen-tickets, [refs/heads/master@f81ef608a58323f887840c325874bf6b863a9703](https://github.com/dat-adi/eisen-tickets/commit/f81ef608a58323f887840c325874bf6b863a9703)
 
