@@ -82,7 +82,10 @@ Wanna try some out?
 <!-- links to social media icons -->
 
 <!-- article-links starts -->
-
+https://www.askpython.com/python-modules/pyautogui-in-python <br/>
+https://www.askpython.com/python-modules/psutil-module <br/>
+https://www.askpython.com/python/examples/read-data-files-in-python <br/>
+https://www.askpython.com/python/examples/mat-files-in-python <br/>
 <!-- article-links ends -->
 
 ## My recent commits
