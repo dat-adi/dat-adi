@@ -27,8 +27,10 @@ def fetch_article_links(link):
 	page = requests.get(link).text
 	soup = BeautifulSoup(page, "html.parser")
 	articles_tag = soup.find_all("a", "author--post")
-	article_links = [link.get("href") for link in articles_tag]
-	return article_links
+	article_titles = [title.text.strip() for title in soup.find_all("h3")]
+    article_links = [link.get("href") for link in articles_tag]
+    title_links = list(zip(article_titles, article_links))
+    return title_links
 
 
 if __name__ == "__main__":
@@ -40,7 +42,7 @@ if __name__ == "__main__":
 	posts = fetch_article_links("https://www.askpython.com/author/datta")
 	if len(posts) != 0:
 		posts_md = "\n".join(
-			["{} <br/>".format(link) for link in posts]
+			["[{}]({}) <br/>".format(post[0], post[1]) for post in posts]
 		)
 
 		rewritten = replace_chunk(rewritten, "article-links", posts_md)
