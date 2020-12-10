@@ -83,10 +83,10 @@ Wanna try some out?
 
 ## Read some of my articles!
 <!-- article-links starts -->
-https://www.askpython.com/python-modules/pyautogui-in-python <br/>
-https://www.askpython.com/python-modules/psutil-module <br/>
-https://www.askpython.com/python/examples/read-data-files-in-python <br/>
-https://www.askpython.com/python/examples/mat-files-in-python <br/>
+[Automation with PyAutoGUI in Python](https://www.askpython.com/python-modules/pyautogui-in-python) <br/>
+[Working with the psutil module in Python](https://www.askpython.com/python-modules/psutil-module) <br/>
+[How to read .data files in Python?](https://www.askpython.com/python/examples/read-data-files-in-python) <br/>
+[How to read .mat files in Python?](https://www.askpython.com/python/examples/mat-files-in-python) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
