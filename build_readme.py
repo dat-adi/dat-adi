@@ -28,9 +28,9 @@ def fetch_article_links(link):
 	soup = BeautifulSoup(page, "html.parser")
 	articles_tag = soup.find_all("a", "author--post")
 	article_titles = [title.text.strip() for title in soup.find_all("h3")]
-    article_links = [link.get("href") for link in articles_tag]
-    title_links = list(zip(article_titles, article_links))
-    return title_links
+	article_links = [link.get("href") for link in articles_tag]
+	title_links = list(zip(article_titles, article_links))
+	return title_links
 
 
 if __name__ == "__main__":
