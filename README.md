@@ -81,6 +81,7 @@ Wanna try some out?
 </details>
 <!-- links to social media icons -->
 
+## Read some of my articles!
 <!-- article-links starts -->
 https://www.askpython.com/python-modules/pyautogui-in-python <br/>
 https://www.askpython.com/python-modules/psutil-module <br/>
