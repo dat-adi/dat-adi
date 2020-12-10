@@ -25,9 +25,9 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_article_links(link):
 	page = requests.get(link).text
-    soup = BeautifulSoup(page, "html.parser")
-    articles_tag = soup.find_all("a", "author--post")
-    article_links = [link.get("href") for link in articles_tag]
+	soup = BeautifulSoup(page, "html.parser")
+	articles_tag = soup.find_all("a", "author--post")
+	article_links = [link.get("href") for link in articles_tag]
 	return article_links
 
 
