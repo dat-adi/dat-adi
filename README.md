@@ -83,12 +83,12 @@ Wanna try some out?
 
 ## Read some of my articles!
 <!-- article-links starts -->
+[Scheduling in Python with the sched module](https://www.askpython.com/python-modules/sched-module) <br/>
+[The resource module in Python – A Beginner’s Introduction](https://www.askpython.com/python-modules/resource-module) <br/>
+[Python crontab – How to work with Cron in Python?](https://www.askpython.com/python-modules/python-crontab) <br/>
 [The dateutil module in Python](https://www.askpython.com/python-modules/dateutil-module) <br/>
 [PyTorch – An Easy Beginner’s Reference](https://www.askpython.com/python-modules/pytorch) <br/>
 [Virtual Environments in Python – Easy Installation and Setup](https://www.askpython.com/python/examples/virtual-environments-in-python) <br/>
-[Automation with PyAutoGUI in Python](https://www.askpython.com/python-modules/pyautogui-in-python) <br/>
-[Working with the psutil module in Python](https://www.askpython.com/python-modules/psutil-module) <br/>
-[How to read .data files in Python?](https://www.askpython.com/python/examples/read-data-files-in-python) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
