@@ -83,12 +83,12 @@ Wanna try some out?
 
 ## Read some of my articles!
 <!-- article-links starts -->
+[Integrating GSheets with Python for Beginners](https://www.askpython.com/python/examples/integrating-gsheets-with-python-beginners) <br/>
 [Scheduling in Python with the sched module](https://www.askpython.com/python-modules/sched-module) <br/>
 [The resource module in Python – A Beginner’s Introduction](https://www.askpython.com/python-modules/resource-module) <br/>
 [Python crontab – How to work with Cron in Python?](https://www.askpython.com/python-modules/python-crontab) <br/>
 [Working with R in Python](https://www.askpython.com/python/examples/r-in-python) <br/>
 [Keep your secrets safe with Python-dotenv](https://www.askpython.com/python/python-dotenv-module) <br/>
-[The dateutil module in Python](https://www.askpython.com/python-modules/dateutil-module) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
