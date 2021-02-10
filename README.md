@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?export=view&id=1JE5PSpbkJFAqshWPV_Cbe1-zg392ozZp">
+
 # Hey, how you doing? 👋
 
 I'm **Datta Adithya**, a Sophomore at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
