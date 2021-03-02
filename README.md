@@ -79,7 +79,11 @@ Wanna try some out?
 </details>
 <details>
   <summary><b>My Project Stats</b></summary>
+    <a href="https://github.com/dat-adi/eisen-tickets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dat-adi&repo=eisen-tickets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </a>
+    <a href="https://github.com/Open-Source-Community-VIT-AP/oschub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Open-Source-Community-VIT-AP&repo=oschub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
 </details>
 <!-- links to social media icons -->
