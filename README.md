@@ -90,12 +90,16 @@ Wanna try some out?
 
 ## Read some of my articles!
 <!-- article-links starts -->
-[Diagram Architecture using the diagrams module in Python](https://www.askpython.com/python-modules/diagrams-module) <br/>
-[Integrating GSheets with Python for Beginners](https://www.askpython.com/python/examples/integrating-gsheets-with-python-beginners) <br/>
-[Scheduling in Python with the sched module](https://www.askpython.com/python-modules/sched-module) <br/>
-[The resource module in Python – A Beginner’s Introduction](https://www.askpython.com/python-modules/resource-module) <br/>
-[Python crontab – How to work with Cron in Python?](https://www.askpython.com/python-modules/python-crontab) <br/>
-[Working with R in Python](https://www.askpython.com/python/examples/r-in-python) <br/>
+[Image Processing Part 5: Arithmetic, Bitwise, and Masking](https://www.journaldev.com/48789/arithmetic-bitwise-and-masking-python-opencv) <br/>
+[The Image Processing Series Part 4: Image Transformation](https://www.journaldev.com/48784/image-transformation-with-python-opencv) <br/>
+[The Image Processing Series Part 3: Drawing with OpenCV](https://www.journaldev.com/48771/drawing-with-python-opencv) <br/>
+[The Image Processing Series Part 2: Setting pixels in Python](https://www.journaldev.com/48757/opencv-setting-pixels-in-python) <br/>
+[The Image Processing in Python Part 1 – Loading Images](https://www.journaldev.com/48751/opencv-loading-images) <br/>
+[Pytorch vs Tensorflow vs Keras – Which one is right for you?](https://www.journaldev.com/48636/pytorch-vs-tensorflow-vs-keras) <br/>
+[Vim plugins that you can use to boost your productivity!](https://www.journaldev.com/48544/vim-plugins-for-productivity) <br/>
+[Django Tools: Authentication with django-allauth module](https://www.journaldev.com/48457/django-allauth-module) <br/>
+[Advanced Tkinter: Working with Classes](https://www.journaldev.com/48165/tkinter-working-with-classes) <br/>
+[Yagmail: How to send emails using Python!](https://www.journaldev.com/48114/send-emails-using-python-yagmail-module) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
