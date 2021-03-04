@@ -39,7 +39,7 @@ if __name__ == "__main__":
 	readme_contents = readme.open().read()
 	rewritten = readme_contents
 
-	posts = fetch_article_links("https://www.askpython.com/author/datta")
+	posts = fetch_article_links("https://www.journaldev.com/author/datta")
 	if len(posts) != 0:
 		posts_md = "\n".join(
 			["[{}]({}) <br/>".format(post[0], post[1]) for post in posts]
