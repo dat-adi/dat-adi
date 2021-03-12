@@ -18,7 +18,7 @@ The rest of the time I spend on reading novels, webtoons, and manga.
 ## Check out my website!
 Apart from coding, I do maintain a website displaying my **projects**, my **blog** and my **resume**.\
 Consider checking it out!\
-[My professional portfolio](http://www.heltimes.com)
+[My professional portfolio](http://dat-adi.github.io/tech-portfolio/)
 
 
 ## Tech and Tools
