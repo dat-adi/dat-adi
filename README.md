@@ -89,6 +89,7 @@ Wanna try some out?
 
 ## Read some of my articles!
 <!-- article-links starts -->
+[Image Processing Series Part 6: Morphological Operations](https://www.journaldev.com/49541/morphological-operations) <br/>
 [Image Processing Part 5: Arithmetic, Bitwise, and Masking](https://www.journaldev.com/48789/arithmetic-bitwise-and-masking-python-opencv) <br/>
 [The Image Processing Series Part 4: Image Transformation](https://www.journaldev.com/48784/image-transformation-with-python-opencv) <br/>
 [The Image Processing Series Part 3: Drawing with OpenCV](https://www.journaldev.com/48771/drawing-with-python-opencv) <br/>
@@ -98,7 +99,6 @@ Wanna try some out?
 [Vim plugins that you can use to boost your productivity!](https://www.journaldev.com/48544/vim-plugins-for-productivity) <br/>
 [Django Tools: Authentication with django-allauth module](https://www.journaldev.com/48457/django-allauth-module) <br/>
 [Advanced Tkinter: Working with Classes](https://www.journaldev.com/48165/tkinter-working-with-classes) <br/>
-[Yagmail: How to send emails using Python!](https://www.journaldev.com/48114/send-emails-using-python-yagmail-module) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
