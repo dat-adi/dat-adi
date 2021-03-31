@@ -51,6 +51,7 @@ Wanna try some out?
   Komi-san wa Komyushou Desu<br>
   Kaguya-sama wa Kokurasetai<br>
   Horimiya<br>
+  Tomo-chan wa Onnanoko!<br>
   ---<br>
   Breaker<br>
   Breaker: New Waves<br>
