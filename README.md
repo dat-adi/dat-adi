@@ -22,10 +22,11 @@ Consider checking it out!\
 
 
 ## Tech and Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white&color=1793D1)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## A little more about me
 Hit me up on the topic of wuxias, light novels, or manga, and I'll be glad to entertain you.\
