@@ -93,6 +93,7 @@ Wanna try some out?
 <!-- article-links starts -->
 [Image Processing Series Part 6: Morphological Operations](https://www.journaldev.com/49541/morphological-operations) <br/>
 [Image Processing Part 5: Arithmetic, Bitwise, and Masking](https://www.journaldev.com/48789/arithmetic-bitwise-and-masking-python-opencv) <br/>
+[PyTorch conv2d: A Practical Guide](https://www.journaldev.com/48685/pytorch-conv2d-a-practical-guide) <br/>
 [The Image Processing Series Part 4: Image Transformation](https://www.journaldev.com/48784/image-transformation-with-python-opencv) <br/>
 [The Image Processing Series Part 3: Drawing with OpenCV](https://www.journaldev.com/48771/drawing-with-python-opencv) <br/>
 [The Image Processing Series Part 2: Setting pixels in Python](https://www.journaldev.com/48757/opencv-setting-pixels-in-python) <br/>
@@ -100,7 +101,6 @@ Wanna try some out?
 [Pytorch vs Tensorflow vs Keras – Which one is right for you?](https://www.journaldev.com/48636/pytorch-vs-tensorflow-vs-keras) <br/>
 [Vim plugins that you can use to boost your productivity!](https://www.journaldev.com/48544/vim-plugins-for-productivity) <br/>
 [Django Tools: Authentication with django-allauth module](https://www.journaldev.com/48457/django-allauth-module) <br/>
-[Advanced Tkinter: Working with Classes](https://www.journaldev.com/48165/tkinter-working-with-classes) <br/>
 <!-- article-links ends -->
 
 ## My recent commits
