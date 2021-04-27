@@ -105,7 +105,7 @@ Wanna try some out?
 
 ## My recent commits
 <!-- START gadpp -->
-- dat-adi/tinyApps, [refs/heads/master@865e801738053a01362a4a437ea51dfdd9439a78](https://github.com/dat-adi/tinyApps/commit/865e801738053a01362a4a437ea51dfdd9439a78)
+- dat-adi/tinyApps, [refs/heads/master@14cae571d42598ad6dcfff5c583cfb0119d43ef7](https://github.com/dat-adi/tinyApps/commit/14cae571d42598ad6dcfff5c583cfb0119d43ef7)
 - dat-adi/eisen-tickets, [refs/heads/master@f649d5337a83a904ec6858140cfaca76c84c09b4](https://github.com/dat-adi/eisen-tickets/commit/f649d5337a83a904ec6858140cfaca76c84c09b4)
 - dat-adi/time-tabler, [refs/heads/master@54465ae95109789ecfc633fff8d13fbac2768c48](https://github.com/dat-adi/time-tabler/commit/54465ae95109789ecfc633fff8d13fbac2768c48)
 
