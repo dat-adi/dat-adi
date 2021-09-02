@@ -2,13 +2,13 @@
 
 # Hey, how you doing? 👋
 
-I'm **Datta Adithya**, a Sophomore at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
+I'm **Datta Adithya**, a Junior at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
 I'm from India, and reside in Hyderabad, and like to work on coding projects from time to time.\
 You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3].
 
 ## What I'm currently working on
 
-I'm currently learning the **Django Framework**, and right now, all I can see is massive potential. Really gets me up hyped up for the future of Python Frameworks!
+I'm currently exploring the MERN stack and attempting to build projects on it, while subsequently delving into Networking and Operating Systems.
 
 ## What I spend my time on
 
@@ -126,7 +126,7 @@ Wanna try some out?
 
 [1]: https://twitter.com/datadi3
 [2]: https://github.com/dat-adi
-[3]: https://www.linkedin.com/in/datta-adithya-5672a4190/
+[3]: https://www.linkedin.com/in/datta-adithya/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
