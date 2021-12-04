@@ -30,7 +30,8 @@ Consider checking it out!\
 
 ## A little more about me
 Hit me up on the topic of wuxias, light novels, or manga, and I'll be glad to entertain you.\
-*Currently Reading*: __The Wandering Inn__\
+*Currently Reading*: __Worth a candle__\
+*Best Book Ever*: __The Wandering Inn__\
 Wanna try some out?
 <details>
   <summary><b>Wuxias and Light Novels</b></summary>
