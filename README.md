@@ -70,26 +70,6 @@ Wanna try some out?
   God of Highschool<br>
 </details>
 
-## GitHub Stats
-<details>
-  <summary><b>My GitHub Stats</b></summary>
-    <a href="https://github.com/dat-adi/dat-adi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat-adi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
-    <a href="https://github.com/dat-adi/dat-adi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dat-adi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dat Adi's GitHub Stats" />
-    </a>
-</details>
-<details>
-  <summary><b>My Project Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dat-adi&repo=eisen-tickets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
-    <a href="https://github.com/Open-Source-Community-VIT-AP/oschub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Open-Source-Community-VIT-AP&repo=oschub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-    </a>
-</details>
-<!-- links to social media icons -->
-
 ## Read some of my articles!
 <!-- article-links starts -->
 [Image Processing Series Part 6: Morphological Operations](https://www.journaldev.com/49541/morphological-operations) <br/>
