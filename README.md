@@ -8,7 +8,8 @@ You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3]
 
 ## What I'm currently working on
 
-I'm currently exploring the MERN stack and attempting to build projects on it, while subsequently delving into Networking and Operating Systems.
+I'm currently studying concepts on Software-Defined Networks, and fiddling around with controller development.\
+Aside from that, I love ricing my configuration on Arch too! :D
 
 ## What I spend my time on
 
