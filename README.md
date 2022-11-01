@@ -2,24 +2,20 @@
 
 # Hey, how you doing? 👋
 
-I'm **Datta Adithya**, a Junior at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
+I'm **Datta Adithya**, a Senior at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
 I'm from India, and reside in Hyderabad, and like to work on coding projects from time to time.\
 You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3].
 
-## What I'm currently working on
-
-I'm currently studying concepts on Software-Defined Networks, and fiddling around with controller development.\
+I'm currently performing research on Software-Defined Networks, and am fiddling around with controller development.
 Aside from that, I love ricing my configuration on Arch too! :D
 
 ## What I spend my time on
 
-I seek new **concepts**, **frameworks**, and **SDKs** to explore most of the time.\
-The rest of the time I spend on reading novels, webtoons, and manga.
+I like to seek out methods to automate my tasks and like to make simple projects that either are useful or [you can get a kick out of](https://github.com/Murgi-Clan/MurgiBot). The rest of my time is spent on reading novels, manga, and playing videogames.
 
 ## Check out my website!
-Apart from coding, I do maintain a website displaying my **projects**, my **blog** and my **resume**.\
-Consider checking it out!\
-[My professional portfolio](http://dat-adi.github.io/tech-portfolio/)
+Sometimes, Hugo is just too cool to pass up, so I used it and made a website for myself. It provided the feature set of a blog too, and since I wanted to log my progress with SDN, it checks out.
+Here's my [website][4]!
 
 
 ## Tech and Tools
@@ -31,9 +27,9 @@ Consider checking it out!\
 
 ## A little more about me
 Hit me up on the topic of wuxias, light novels, or manga, and I'll be glad to entertain you.\
-*Currently Reading*: __Worth a candle__\
-*Best Book Ever*: __The Wandering Inn__\
-Wanna try some out?
+*Always Reading*: __The Wandering Inn__
+
+I do like recommending stuff, wanna try some out?
 <details>
   <summary><b>Wuxias and Light Novels</b></summary>
   Against The Gods<br>
@@ -55,14 +51,19 @@ Wanna try some out?
   Kaguya-sama wa Kokurasetai<br>
   Horimiya<br>
   Tomo-chan wa Onnanoko!<br>
+  Nan Hao & Shang Feng<br>
+  Tamen de Gushi<br>
+  Kanojo, Okarishimasu<br>
+  Boku to Kimi no Taisetsu na Hanashi<br>
+  Domestic na Kanojo<br>
   ---<br>
   Breaker<br>
   Breaker: New Waves<br>
 </details>
 <details>
   <summary><b>Webtoons</b></summary>
-  Solo Levelling<br>
-  Release that Witch<br>
+  Solo Leveling<br>
+  Legend of the Northern Blade<br>
   Peerless Dad<br>
   Re-Life<br>
   Unordinary<br>
@@ -70,20 +71,6 @@ Wanna try some out?
   Tower of God<br>
   God of Highschool<br>
 </details>
-
-## Read some of my articles!
-<!-- article-links starts -->
-[Image Processing Series Part 6: Morphological Operations](https://www.journaldev.com/49541/morphological-operations) <br/>
-[Image Processing Part 5: Arithmetic, Bitwise, and Masking](https://www.journaldev.com/48789/arithmetic-bitwise-and-masking-python-opencv) <br/>
-[PyTorch conv2d: A Practical Guide](https://www.journaldev.com/48685/pytorch-conv2d-a-practical-guide) <br/>
-[The Image Processing Series Part 4: Image Transformation](https://www.journaldev.com/48784/image-transformation-with-python-opencv) <br/>
-[The Image Processing Series Part 3: Drawing with OpenCV](https://www.journaldev.com/48771/drawing-with-python-opencv) <br/>
-[The Image Processing Series Part 2: Setting pixels in Python](https://www.journaldev.com/48757/opencv-setting-pixels-in-python) <br/>
-[The Image Processing in Python Part 1 – Loading Images](https://www.journaldev.com/48751/opencv-loading-images) <br/>
-[Pytorch vs Tensorflow vs Keras – Which one is right for you?](https://www.journaldev.com/48636/pytorch-vs-tensorflow-vs-keras) <br/>
-[Vim plugins that you can use to boost your productivity!](https://www.journaldev.com/48544/vim-plugins-for-productivity) <br/>
-[Django Tools: Authentication with django-allauth module](https://www.journaldev.com/48457/django-allauth-module) <br/>
-<!-- article-links ends -->
 
 ## My recent commits
 <!-- START gadpp -->
@@ -109,6 +96,7 @@ Wanna try some out?
 [1]: https://twitter.com/datadi3
 [2]: https://github.com/dat-adi
 [3]: https://www.linkedin.com/in/datta-adithya/
+[4]: https://datadi.murgi.org/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
