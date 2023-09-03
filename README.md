@@ -96,7 +96,7 @@ I do like recommending stuff, wanna try some out?
 [1]: https://twitter.com/datadi3
 [2]: https://github.com/dat-adi
 [3]: https://www.linkedin.com/in/datta-adithya/
-[4]: https://datadi.murgi.org/
+[4]: https://heltale.com
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
