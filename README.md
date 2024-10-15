@@ -2,31 +2,36 @@
 
 # Hey, how you doing? 👋
 
-I'm **Datta Adithya**, a Senior at the **VIT-AP University**, pursuing knowledge in the stream of **Computer Science and Engineering**.\
-I'm from India, and reside in Hyderabad, and like to work on coding projects from time to time.\
-You can find me on my handles at [![Twitter][1.2]][1], and [![LinkedIn][3.2]][3].
+I'm Adithya, a CS grad student at the **Johns Hopkins University**. \
+As a part of the HopNets team, I primarily work on investigating microbursts and congestion control in Data Center Networks. \
+I'm reachable via my [LinkedIn][3] or my email: vgadham1 at jhu dot edu.
 
-I'm currently performing research on Software-Defined Networks, and am fiddling around with controller development.
-Aside from that, I love ricing my configuration on Arch too! :D
+For an unnecessarily long list of whatever I did in the past few years, check out the [Accomplishments](Accomplishments) section. \
+Aside from the professional stuff, I love playing multiplayer video games, reading novels/manga and ricing my Arch Linux configuration! :D
 
-## What I spend my time on
+#### Accomplishments
 
-I like to seek out methods to automate my tasks and like to make simple projects that either are useful or [you can get a kick out of](https://github.com/Murgi-Clan/MurgiBot). The rest of my time is spent on reading novels, manga, and playing videogames.
+Reverse Chronologically, I've done the following (excl. personal projects),
+- Research at Johns Hopkins University
+  + Under the guidance of [Dr. Soudeh Ghorbani](https://soudeh.net), I'm currently working on investigating microbursts in Meta's DCNs; simulating this stuff using OMNeT++/INET.
+  + Course Assistant for the Blockchains & Cryptocurrencies course taken up by [Dr. Matthew Green](https://spar.isi.jhu.edu/~mgreen/).
+- Data Engineer at Bajaj Markets
+  + Had an amazing team to work with; spun up the DRIFT framework to orchestrate over 500+ jobs for BI Reporting, Data Analysis, and DWH construction.
+  + Revamped the offer generation pipeline to concurrently process 30+ million customers, using Parquet, AWS S3, Celery, DuckDB and Python.
+  + Created interfaces for data analysts and SQL BI teams to create data transformation jobs. These jobs could be tracked, scheduled, and provided notifications on completion.
+- Research at VIT AP
+  + Under the guidance of [Dr. Rohit Kumar Das](https://rohitdas01.github.io/), I've published a paper on [Automated Station Migration in SDNs](https://link.springer.com/article/10.1007/s11227-023-05392-z) in the Journal of Supercomputing.
+  + The following year, I presented the impact of [Intelligent Systems in Advanced Networks](https://ieeexplore.ieee.org/abstract/document/10126117) at the I2CT conference in Pune, India.
+- President of the Open Source Community at VIT AP
+  + I've been part of and led the development of three open source projects, 50+ events and 3+ initiatives during my time as an undergrad.
+  + Set up a pretty awesome foundation for the future generations of the club. Now they've got their [own aesthetic](https://oscvitap.org/) going on for them.
 
-## Check out my website!
+#### Check out my website!
 Sometimes, Hugo is just too cool to pass up, so I used it and made a website for myself. It provided the feature set of a blog too, and since I wanted to log my progress with SDN, it checks out.
 Here's my [website][4]!
 
-
-## Tech and Tools
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white&color=1793D1)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## A little more about me
-Hit me up on the topic of wuxias, light novels, or manga, and I'll be glad to entertain you.\
+#### Unsolicited recommendations
+Hit me up on the topic of wuxias, light novels, or manga, and I'll mostly have recommends.\
 *Always Reading*: __The Wandering Inn__
 
 I do like recommending stuff, wanna try some out?
@@ -44,7 +49,10 @@ I do like recommending stuff, wanna try some out?
   One Piece<br>
   Naruto<br>
   Fairy Tail<br>
-  Boku no Hero Academia<br>
+  Vinland Saga<br>
+  Re:Zero<br>
+  Mushuko Tensei<br>
+  Oshi no Ko<br>
   ---<br>
   Nijiiro Days<br>
   Komi-san wa Komyushou Desu<br>
@@ -56,28 +64,27 @@ I do like recommending stuff, wanna try some out?
   Kanojo, Okarishimasu<br>
   Boku to Kimi no Taisetsu na Hanashi<br>
   Domestic na Kanojo<br>
+  The Apothecary Diaries<br>
   ---<br>
   Breaker<br>
   Breaker: New Waves<br>
 </details>
 <details>
   <summary><b>Webtoons</b></summary>
+  Return of the Mount Hua Sect<br>
+  Wind Breaker<br>
+  The Greatest Estate Developer<br>
+  Trash of the Count's Family<br>
   Solo Leveling<br>
+  Murim Login<br>
+  Infinite Leveling: Murim<br>
   Legend of the Northern Blade<br>
   Peerless Dad<br>
   Re-Life<br>
-  Unordinary<br>
-  Black Haze<br>
+  unOrdinary<br>
   Tower of God<br>
-  God of Highschool<br>
+  Omniscient Reader's Viewpoint<br>
 </details>
-
-## My recent commits
-<!-- START gadpp -->
-- dat-adi/dotfiles, [refs/heads/master@5d172741fd1b24b8e67a08b33e38246b7460be71](https://github.com/dat-adi/dotfiles/commit/5d172741fd1b24b8e67a08b33e38246b7460be71)
-- dat-adi/tinyApps, [refs/heads/master@13e3949f08c0251897bf35aa5650b110de276d27](https://github.com/dat-adi/tinyApps/commit/13e3949f08c0251897bf35aa5650b110de276d27)
-- dat-adi/eisen-tickets, [refs/heads/master@bedd6786da5c49d0021ca97e6e4f33b7a07f5be4](https://github.com/dat-adi/eisen-tickets/commit/bedd6786da5c49d0021ca97e6e4f33b7a07f5be4)
-- dat-adi/time-tabler, [refs/heads/master@54465ae95109789ecfc633fff8d13fbac2768c48](https://github.com/dat-adi/time-tabler/commit/54465ae95109789ecfc633fff8d13fbac2768c48)
 
 <!-- icons with padding -->
 
