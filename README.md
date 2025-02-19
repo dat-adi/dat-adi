@@ -1,9 +1,7 @@
-<img src="https://drive.google.com/uc?export=view&id=1XhlTFib0CrUcAdvSc6mx364f_LgI09L_">
-
 # Hey, how you doing? 👋
 
 I'm Adithya, a CS grad student at the **Johns Hopkins University**. \
-As a part of the HopNets team, I primarily work on investigating microbursts and congestion control in Data Center Networks. \
+Presently, I'm researching on leveraging emergent sparsity in LLMs with Dr. Burns to optimize inference. \
 I'm reachable via my [LinkedIn][3] or my email: vgadham1 at jhu dot edu.
 
 For an unnecessarily long list of whatever I did in the past few years, check out the [Accomplishments](Accomplishments) section. \
@@ -13,7 +11,8 @@ Aside from the professional stuff, I love playing multiplayer video games, readi
 
 Reverse Chronologically, I've done the following (excl. personal projects),
 - Research at Johns Hopkins University
-  + Under the guidance of [Dr. Soudeh Ghorbani](https://soudeh.net), I'm currently working on investigating microbursts in Meta's DCNs; simulating this stuff using OMNeT++/INET.
+  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically masking sparsity in large matrix multiplication.
+  + Under [Dr. Soudeh Ghorbani](https://soudeh.net), I worked on investigating microbursts via OMNeT++/INET simulations for Meta's DCNs.
   + Course Assistant for the Blockchains & Cryptocurrencies course taken up by [Dr. Matthew Green](https://spar.isi.jhu.edu/~mgreen/).
 - Data Engineer at Bajaj Markets
   + Had an amazing team to work with; spun up the DRIFT framework to orchestrate over 500+ jobs for BI Reporting, Data Analysis, and DWH construction.
@@ -54,6 +53,7 @@ I do like recommending stuff, wanna try some out?
   Mushuko Tensei<br>
   Oshi no Ko<br>
   ---<br>
+  The dangers in my heart<br>
   Nijiiro Days<br>
   Komi-san wa Komyushou Desu<br>
   Kaguya-sama wa Kokurasetai<br>
@@ -84,6 +84,7 @@ I do like recommending stuff, wanna try some out?
   unOrdinary<br>
   Tower of God<br>
   Omniscient Reader's Viewpoint<br>
+  The Novel's Extra (Remake)<br>
 </details>
 
 <!-- icons with padding -->
