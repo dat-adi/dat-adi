@@ -26,7 +26,7 @@ Reverse Chronologically, I've done the following (excl. personal projects),
   + Set up a pretty awesome foundation for the future generations of the club. Now they've got their [own aesthetic](https://oscvitap.org/) going on for them.
 
 #### Check out my website!
-Sometimes, Hugo is just too cool to pass up, so I used it and made a website for myself. It provided the feature set of a blog too, and since I wanted to log my progress with SDN, it checks out.
+Sometimes, Hugo is just too cool to pass up, so I used it and made a website for myself. It provided the feature set of a blog too, and since I wanted to log my work, it checks out.
 Here's my [website][4]!
 
 #### Unsolicited recommendations
