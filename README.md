@@ -11,7 +11,7 @@ Aside from the professional stuff, I love playing multiplayer video games, readi
 
 Reverse Chronologically, I've done the following (excl. personal projects),
 - Research at Johns Hopkins University
-  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically masking sparsity in large matrix multiplication.
+  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically pruning activations to increase sparsity and skip computations in matrix multiplication.
   + Under [Dr. Soudeh Ghorbani](https://soudeh.net), I worked on investigating microbursts via OMNeT++/INET simulations for Meta's DCNs.
   + Course Assistant for the Blockchains & Cryptocurrencies course taken up by [Dr. Matthew Green](https://spar.isi.jhu.edu/~mgreen/).
 - Data Engineer at Bajaj Markets
