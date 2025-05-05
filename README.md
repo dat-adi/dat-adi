@@ -11,7 +11,7 @@ Aside from the professional stuff, I love playing multiplayer video games, readi
 
 Reverse Chronologically, I've done the following (excl. personal projects),
 - Research at Johns Hopkins University
-  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically pruning activations to increase sparsity and skip computations in matrix multiplication.
+  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically pruning activations to increase sparsity for efficient matrix multiplication kernel operations.
   + Under [Dr. Soudeh Ghorbani](https://soudeh.net), I worked on investigating microbursts via OMNeT++/INET simulations for Meta's DCNs.
   + Course Assistant for the Blockchains & Cryptocurrencies course taken up by [Dr. Matthew Green](https://spar.isi.jhu.edu/~mgreen/).
 - Data Engineer at Bajaj Markets
@@ -19,8 +19,7 @@ Reverse Chronologically, I've done the following (excl. personal projects),
   + Revamped the offer generation pipeline to concurrently process 30+ million customers, using Parquet, AWS S3, Celery, DuckDB and Python.
   + Created interfaces for data analysts and SQL BI teams to create data transformation jobs. These jobs could be tracked, scheduled, and provided notifications on completion.
 - Research at VIT AP
-  + Under the guidance of [Dr. Rohit Kumar Das](https://rohitdas01.github.io/), I've published a paper on [Automated Station Migration in SDNs](https://link.springer.com/article/10.1007/s11227-023-05392-z) in the Journal of Supercomputing.
-  + The following year, I presented the impact of [Intelligent Systems in Advanced Networks](https://ieeexplore.ieee.org/abstract/document/10126117) at the I2CT conference in Pune, India.
+  + Under the guidance of [Dr. Rohit Kumar Das](https://rohitdas01.github.io/), I've presented the impact of [Intelligent Systems in Advanced Networks](https://ieeexplore.ieee.org/abstract/document/10126117) at the I2CT conference in Pune, India, and published a paper on [Automated Station Migration in SDNs](https://link.springer.com/article/10.1007/s11227-023-05392-z) in the Journal of Supercomputing.
 - President of the Open Source Community at VIT AP
   + I've been part of and led the development of three open source projects, 50+ events and 3+ initiatives during my time as an undergrad.
   + Set up a pretty awesome foundation for the future generations of the club. Now they've got their [own aesthetic](https://oscvitap.org/) going on for them.
@@ -44,7 +43,7 @@ I do like recommending stuff, wanna try some out?
   Library of Heaven's Path<br>
 </details>
 <details>
-  <summary><b>Manga/Manhwa</b></summary>
+  <summary><b>Anime/Manga/Manhwa</b></summary>
   One Piece<br>
   Naruto<br>
   Fairy Tail<br>
@@ -52,8 +51,11 @@ I do like recommending stuff, wanna try some out?
   Re:Zero<br>
   Mushuko Tensei<br>
   Oshi no Ko<br>
+  Made in Abyss<br>
+  Kenichi: The Mightiest Disciple<br>
   ---<br>
-  The dangers in my heart<br>
+  Blue Box<br>
+  The Dangers in my Heart<br>
   Nijiiro Days<br>
   Komi-san wa Komyushou Desu<br>
   Kaguya-sama wa Kokurasetai<br>
