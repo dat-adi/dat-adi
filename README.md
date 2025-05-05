@@ -4,7 +4,6 @@ I'm Adithya, a CS grad student at the **Johns Hopkins University**. \
 Presently, I'm researching on leveraging emergent sparsity in LLMs with Dr. Burns to optimize inference. \
 I'm reachable via my [LinkedIn][3] or my email: vgadham1 at jhu dot edu.
 
-For an unnecessarily long list of whatever I did in the past few years, check out the [Accomplishments](Accomplishments) section. \
 Aside from the professional stuff, I love playing multiplayer video games, reading novels/manga and ricing my Arch Linux configuration! :D
 
 #### Accomplishments
@@ -67,6 +66,7 @@ I do like recommending stuff, wanna try some out?
   Boku to Kimi no Taisetsu na Hanashi<br>
   Domestic na Kanojo<br>
   The Apothecary Diaries<br>
+  Grand Blue Dreaming<br>
   ---<br>
   Breaker<br>
   Breaker: New Waves<br>
@@ -87,6 +87,22 @@ I do like recommending stuff, wanna try some out?
   Tower of God<br>
   Omniscient Reader's Viewpoint<br>
   The Novel's Extra (Remake)<br>
+</details>
+<details>
+  <summary><b>Games</b></summary>
+  The First Berserker: Khazan (WIP)<br>
+  Hollow Knight<br>
+  Celeste<br>
+  Hades (WIP)<br>
+  Dark Souls 1, 3 (WIP)<br>
+  Elden Ring (WIP)<br>
+  Blasphemous 1, 2<br>
+  Aveyond Series<br>
+  ---<br>
+  CS:GO<br>
+  Valorant (discontinued)<br>
+  DoTA 2 (discontinued)<br>
+  Apex Legends<br>
 </details>
 
 <!-- icons with padding -->
