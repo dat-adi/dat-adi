@@ -10,7 +10,7 @@ Aside from the professional stuff, I love playing multiplayer video games, readi
 
 Reverse Chronologically, I've done the following (excl. personal projects),
 - Research at Johns Hopkins University
-  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm working on optimizing inference in LLMs by strategically pruning activations to increase sparsity for efficient matrix multiplication kernel operations.
+  + Under [Dr. Randal Burns](https://randalburns.github.io/), I'm building a sparse matrix workloads dataset to support SpMM kernel performance benchmarking for LLMs. The data for the instances are retrieved from popular (zero order/first order/second order) pruning strategies.
   + Under [Dr. Soudeh Ghorbani](https://soudeh.net), I worked on investigating microbursts via OMNeT++/INET simulations for Meta's DCNs.
   + Course Assistant for the Blockchains & Cryptocurrencies course taken up by [Dr. Matthew Green](https://spar.isi.jhu.edu/~mgreen/).
 - Data Engineer at Bajaj Markets
