@@ -90,12 +90,14 @@ I do like recommending stuff, wanna try some out?
 </details>
 <details>
   <summary><b>Games</b></summary>
-  The First Berserker: Khazan (WIP)<br>
+  Clair Obscur: Expedition 33(WIP)<br>
+  The Legends of Heroes: Trails in the Sky(WIP)<br> 
+  The First Berserker: Khazan (on hold; WIP)<br>
   Hollow Knight<br>
   Celeste<br>
-  Hades (WIP)<br>
-  Dark Souls 1, 3 (WIP)<br>
-  Elden Ring (WIP)<br>
+  Hades (on hold; WIP)<br>
+  Dark Souls 1, 3 (on hold; WIP)<br>
+  Elden Ring (on hold; WIP)<br>
   Blasphemous 1, 2<br>
   Aveyond Series<br>
   ---<br>
