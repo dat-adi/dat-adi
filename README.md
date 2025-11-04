@@ -91,10 +91,10 @@ I do like recommending stuff, wanna try some out?
 </details>
 <details>
   <summary><b>Games</b></summary>
-  Hollow Knight: Silksong (WIP)<br>
-  Clair Obscur: Expedition 33(WIP)<br>
-  The Legends of Heroes: Trails in the Sky(WIP)<br> 
-  The First Berserker: Khazan (on hold; WIP)<br>
+  Hollow Knight: Silksong (Done with Act 2;WIP)<br>
+  Clair Obscur: Expedition 33(Done with Act 2;WIP)<br>
+  The Legends of Heroes: Trails in the Sky(Done with Second Chapter;WIP)<br> 
+  The First Berserker: Khazan (discontinued)<br>
   Hollow Knight<br>
   Celeste<br>
   Hades (on hold; WIP)<br>
