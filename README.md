@@ -31,7 +31,7 @@ Here's my [website][4]!
 Hit me up on the topic of wuxias, light novels, or manga, and I'll mostly have recommends.\
 *Always Reading*: __The Wandering Inn__
 
-I do like recommending stuff, wanna try some out?
+Here's a few of my recommendations:
 <details>
   <summary><b>Wuxias and Light Novels</b></summary>
   Against The Gods<br>
@@ -42,7 +42,7 @@ I do like recommending stuff, wanna try some out?
   Library of Heaven's Path<br>
 </details>
 <details>
-  <summary><b>Anime/Manga/Manhwa</b></summary>
+  <summary><b>Anime/Manga</b></summary>
   One Piece<br>
   Naruto<br>
   Fairy Tail<br>
@@ -69,11 +69,11 @@ I do like recommending stuff, wanna try some out?
   The Apothecary Diaries<br>
   Grand Blue Dreaming<br>
   ---<br>
-  Breaker<br>
-  Breaker: New Waves<br>
 </details>
 <details>
-  <summary><b>Webtoons</b></summary>
+  <summary><b>Manhwa</b></summary>
+  Breaker<br>
+  Breaker: New Waves<br>
   Return of the Mount Hua Sect<br>
   Wind Breaker<br>
   The Greatest Estate Developer<br>
@@ -91,10 +91,10 @@ I do like recommending stuff, wanna try some out?
 </details>
 <details>
   <summary><b>Games</b></summary>
-  Hollow Knight: Silksong (Done with Act 2;WIP)<br>
+  Hollow Knight: Silksong<br>
   Clair Obscur: Expedition 33(Done with Act 2;WIP)<br>
-  The Legends of Heroes: Trails in the Sky(Done with Second Chapter;WIP)<br> 
-  The First Berserker: Khazan (discontinued)<br>
+  The Legends of Heroes: Trails in the Sky(Done with Second Chapter;WIP)<br>
+  Persona 5 Royale <br>
   Hollow Knight<br>
   Celeste<br>
   Hades (on hold; WIP)<br>
